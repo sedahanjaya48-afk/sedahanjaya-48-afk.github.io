@@ -1,5 +1,3 @@
-#  nms-web
+Upload demo video for the application
 
-Upload product video for showing example of app
-
-<!-- Failed to upload "mxFCFbiElBkWG30_Sung Jinwoo Solo Leveling_1_174240.mp4" -->
+https://github.com/user-attachments/assets/2b58ecf3-aac6-45b0-9ccc-ee14ebc829b6
